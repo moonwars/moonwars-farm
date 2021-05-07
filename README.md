@@ -1,4 +1,4 @@
-# PantherSwap Farming
+# MoonWars Farming
 
 https://moonwars.finance/ Feel free to read the code. More details coming soon.
 
